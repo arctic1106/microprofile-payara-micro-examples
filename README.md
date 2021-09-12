@@ -1,1 +1,0 @@
-# microprofile-payara-micro-examples
