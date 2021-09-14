@@ -13,3 +13,5 @@ Have a look in the `readme.md` file in each directory which describes how each p
 Once both projects are built and started, open your browser at the following URL to launch the test page and execute both projects:
 
     http://localhost:8080/index.html
+    
+<a href="https://foojay.io/today/works-with-openjdk"><img align="right" src="https://github.com/foojayio/badges/raw/main/works_with_openjdk/Works-with-OpenJDK.png" width="100"></a>
